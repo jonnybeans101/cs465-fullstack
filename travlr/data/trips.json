@@ -1,0 +1,24 @@
+
+[
+  {
+    "name": "Gale Reef",
+    "image": "reef1.jpg",
+    "length": "3 days",
+    "price": "$1,000",
+    "description": "Gale Reef - Explore this beautiful destination."
+  },
+  {
+    "name": "Dawson's Reef",
+    "image": "reef2.jpg",
+    "length": "3 days",
+    "price": "$1,000",
+    "description": "Dawson's Reef - Discover beautiful coral reefs and marine life."
+  },
+  {
+    "name": "Clair's Reef",
+    "image": "reef3.jpg",
+    "length": "3 days",
+    "price": "$1,000",
+    "description": "Clair's Reef - Experience an unforgettable underwater adventure."
+  }
+]
